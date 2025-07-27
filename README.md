@@ -1,5 +1,3 @@
-💉 A complete collection of legacy-compatible BloodHound Cypher queries covering Active Directory, ADCS (ESC1–ESC9), and Azure environments - ideal for red teams, auditors, and defenders working in hybrid or outdated setups.
-
 ### 🛠 How to Use These Queries in BloodHound
 
 You can load the included custom Cypher queries into BloodHound by placing the `customqueries.json` file in the correct location based on your OS.
